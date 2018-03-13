@@ -1,6 +1,6 @@
 # Talks
 
-Talks I gave at different tech and foss conferences.
+Talks I gave at different tech and foss conferences. All slides licensed CCBY.
 
 | Event                      | Duration | Language | Title                                             | Slides   | Recording |
 |----------------------------|----------|----------|---------------------------------------------------|----------|-----------|
