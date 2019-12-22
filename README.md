@@ -13,6 +13,7 @@ Talks I gave at different tech and foss conferences. All slides licensed CCBY, e
 
 | Event | Duration | Language | Title | Slides | Recording |
 |---|---|---|---|---|---|
+| Bachelorseminar “Ausgewählte Kapitel der Informatik” | 20 min | English | Public Key Cryptography | [PDF][16], [beamer][17] | *none* |
 | Ubucon Europe 2019 (Sintra) | 45 min | English | State of the Touch: Ubuntu on phones and tablets | [ODP][14], [PDF][15] | *coming soon* |
 | Ubucon Europe 2019 (Sintra) | 120 min | English | Ubuntu Touch smoke-testing workshop | [ODP][13] | *none* |
 | Ubucon Europe 2019 (Sintra) | 15 min | English | Meet the UBports Installer | [ODP][12] | *coming soon* |
@@ -42,3 +43,6 @@ Talks I gave at different tech and foss conferences. All slides licensed CCBY, e
 
 [14]: ubucon-2019-english.odp
 [15]: https://speakerdeck.com/neothethird/state-of-the-touch-ubuntu-on-phones-and-tablets
+
+[16]: crypto.pdf
+[17]: crypto.zip
