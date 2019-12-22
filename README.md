@@ -2,6 +2,15 @@
 
 Talks I gave at different tech and foss conferences. All slides licensed CCBY, except otherwise specified.
 
+## Upcoming
+
+| Event | Time and Date | Title | Notes |
+|---|---|---|---|
+| 36th Chaos Communication Congress | December 28th 2019, 12:00 - 12:25 | [Ubuntu Touch & Co - GNU/Linux in der Hosentasche](https://talks.oio.social/36c3-oio/talk/E77J8R/) | Open Infrastructure Orbit Stage |
+| 36th Chaos Communication Congress | December 28th 2019, 13:15 - 13:20 | [Exciting developments around Linux on Phones](https://c3lt.de/36c3/talk/NVYV77/) | Lightning Talk |
+
+## History
+
 | Event | Duration | Language | Title | Slides | Recording |
 |---|---|---|---|---|---|
 | Ubucon Europe 2019 (Sintra) | 45 min | English | State of the Touch: Ubuntu on phones and tablets | [ODP][14], [PDF][15] | *coming soon* |
