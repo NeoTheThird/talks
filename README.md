@@ -4,15 +4,17 @@ Talks I gave at different tech and foss conferences. All slides licensed CCBY, e
 
 ## Upcoming
 
-| Event | Time and Date | Title | Notes |
-|---|---|---|---|
-| 36th Chaos Communication Congress | December 28th 2019, 12:00 - 12:25 | [Ubuntu Touch & Co - GNU/Linux in der Hosentasche](https://talks.oio.social/36c3-oio/talk/E77J8R/) | Open Infrastructure Orbit Stage |
-| 36th Chaos Communication Congress | December 28th 2019, 13:15 - 13:20 | [Exciting developments around Linux on Phones](https://c3lt.de/36c3/talk/NVYV77/) | Lightning Talk |
+*currently nothing scheduled*
+
+<!-- | Event | Time and Date | Title | Notes |
+|---|---|---|---| -->
 
 ## History
 
 | Event | Duration | Language | Title | Slides | Recording |
 |---|---|---|---|---|---|
+| 36th Chaos Communication Congress | 25 min | German | Ubuntu Touch & Co - GNU/Linux in der Hosentasche | [ODP][21], [PDF][22] | [video][23] |
+| 36th Chaos Communication Congress | 5 min | English | Exciting developments around Linux on Phones | [PDF][19], [beamer][18] | [video][20] |
 | Bachelorseminar “Ausgewählte Kapitel der Informatik” | 20 min | English | Public Key Cryptography | [PDF][16], [beamer][17] | *none* |
 | Ubucon Europe 2019 (Sintra) | 45 min | English | State of the Touch: Ubuntu on phones and tablets | [ODP][14], [PDF][15] | *coming soon* |
 | Ubucon Europe 2019 (Sintra) | 120 min | English | Ubuntu Touch smoke-testing workshop | [ODP][13] | *none* |
@@ -44,5 +46,13 @@ Talks I gave at different tech and foss conferences. All slides licensed CCBY, e
 [14]: ubucon-2019-english.odp
 [15]: https://speakerdeck.com/neothethird/state-of-the-touch-ubuntu-on-phones-and-tablets
 
-[16]: crypto.pdf
+[16]: https://speakerdeck.com/neothethird/public-key-cryptography
 [17]: crypto.zip
+
+[18]: 36c3-english.md
+[19]: https://speakerdeck.com/neothethird/exciting-developments-around-linux-on-phones
+[20]: https://media.ccc.de/v/36c3-10524-lightning_talks_day_2#t=4909
+
+[21]: 36c3-german.odp
+[22]: https://speakerdeck.com/neothethird/linux-in-der-hosentasche
+[23]: https://media.ccc.de/v/36c3-oio-171-ubuntu-touch-co-gnu-linux-in-der-hosentasche
